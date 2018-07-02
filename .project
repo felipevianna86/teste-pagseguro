@@ -26,7 +26,7 @@
 		<link>
 			<name>.link_to_grails_plugins</name>
 			<type>2</type>
-			<location>/home/felipe/workspace-grails/pagamento/target/work/plugins</location>
+			<location>/home/felipe/workspace-grails/pagamento/teste-pagseguro/target/work/plugins</location>
 		</link>
 	</linkedResources>
 </projectDescription>
